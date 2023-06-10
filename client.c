@@ -6,7 +6,7 @@
 #include <netinet/in.h>
 #include <unistd.h>
 
-#define SERV_PORT "YOUR PORT"
+#define SERV_PORT 1111
 #define SERV_HOST "YOUR IP"
 
 #define SHELLC ""
