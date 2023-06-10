@@ -2,3 +2,5 @@
 
 
 REVERSE SHELL
+
+Servernya memakai netcat
